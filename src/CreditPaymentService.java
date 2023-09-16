@@ -14,5 +14,4 @@ public class CreditPaymentService {
 
         return monthly_pay ;
     }
-
 }
